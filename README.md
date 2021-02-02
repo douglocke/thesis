@@ -1,5 +1,9 @@
 # Presidential Inaugural Addresses
 
+
+
+![MindMap](/Presidential Inaugural Addresses.png)
+
 ## 1.  Topic:  Overview with Comparisons between many speeches over time
 
 ### Research Question:  where do we see transitions or interesting in-betweens as we explore the various speeches?  Where do the modern presidents similar or not similar to predecessors?  Where do we see the shifts occur?    

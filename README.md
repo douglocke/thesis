@@ -1,8 +1,6 @@
 # Presidential Inaugural Addresses
 
-
-
-![MindMap](/Presidential Inaugural Addresses.png)
+![MindMap](mindmap.png)
 
 ## 1.  Topic:  Overview with Comparisons between many speeches over time
 
